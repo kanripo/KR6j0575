@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:28.760664
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:32
 #+TITLE: 金剛場陀羅尼經
 #+PROPERTY: CBETA_ID T21n1345
 #+PROPERTY: ID KR6j0575
