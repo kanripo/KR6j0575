@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:28.047449
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:32
 #+TITLE: 金剛場陀羅尼經
 #+PROPERTY: CBETA_ID T21n1345
 #+PROPERTY: ID KR6j0575
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1345
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0575_T_000-0854b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0575_T_001-0854b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1345[No.1344]¶
-
- 金剛場陀羅尼經¶
+No. 1345 [No. 1344]¶
+金剛場陀羅尼經¶
 ¶
 隋三藏法師闍那崛多譯¶
 
@@ -151,7 +150,7 @@ No.1345[No.1344]¶
 師利有一字法明門。菩薩得已能說千萬字¶
 法門。而此一字法門亦不可盡。在在處處說¶
 諸法相。無有邊際。得此諸法明時。自然得無¶
-障礙辯說。一切法不可窮盡。說諸法已。還復
+障礙辯說。一切法不可窮盡。說諸法己。還復
 <pb:KR6j0575_T_001-0856a>¶
 攝入一字法門。得無礙辯故。轉能多說一句¶
 法門。增益增益說已。還復攝入一法門中。文¶
